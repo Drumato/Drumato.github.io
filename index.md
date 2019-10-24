@@ -1,5 +1,3 @@
-![Drumato](./images/Drumato.png)
-
 <img src="./images/Drumato.png" width="50%" height="50%">
 
 # Profile
