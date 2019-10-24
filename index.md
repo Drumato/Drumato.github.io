@@ -1,4 +1,4 @@
-<img src="./images/Drumato.png" width="30%" height="30%" style="margin: 0 auto;" >
+<img src="./images/Drumato.png" width="30%" height="30%" style="text-align: center;" >
 
 # Profile
 
