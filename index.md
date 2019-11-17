@@ -18,6 +18,7 @@
   - contains compiler/x64 assembler/elf linker
   - without relying on external libraries
   - it's written in Rust
+  - i'm going to implement the path which can emit LLVM-IR but WIP
   - [finally i could create the ELF binary which is executable without using gcc](https://twitter.com/Drumato1/status/1186993979121754112?s=20)
 - [Gopaz](https://github.com/Drumato/Gopaz)
   - A Toy Language
