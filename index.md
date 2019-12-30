@@ -20,6 +20,7 @@
   - it's written in Rust
   - Depth can emit LLVM IR(WIP)
   - can execute ELF binary with `--run` option without using `execve(2)`
+  - can check whether a binary contains some security-mechanisms are in with `--checksec` flag.
   - contains `readelf-ish` program. `depth a.out --readelf -a | less -R` 
   - [finally i could create the ELF binary which is executable without using gcc](https://twitter.com/Drumato1/status/1186993979121754112?s=20)
 - [Gopaz](https://github.com/Drumato/Gopaz)
