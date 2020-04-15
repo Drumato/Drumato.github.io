@@ -3,10 +3,10 @@
 # Profile
 
 - screenName: **Drumato**
-- Team: [IPFactory](https://ipfactory.github.io/) / OtakuAssembly
+- Team: [IPFactory](https://ipfactory.github.io/)
 - Language: Rust/C/Zen
-- Editor: Neovim
-- Age: 19
+- Editor: CLion/NeoVim
+- Age: 20
 - Occupation: Student
 - Interests: compiler/assembler/linker/OS/binary analysis(esp ELF)/ **all low-level programming**
 
@@ -36,7 +36,5 @@
 ## Miscellaneous
 
 - Twitter(Japanese): [@Drumato](https://twitter.com/Drumato)
-- Twitter(English): [@Drumato1](https://twitter.com/Drumato1)
 - GitHub: [@Drumato](https://github.com/Drumato)
 - Blog(Japanese): [Explore "Full-Stack" in depth!](https://drumato.hatenablog.com/)
-- Mail: drumatech109@gmail.com
