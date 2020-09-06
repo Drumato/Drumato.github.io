@@ -4,7 +4,7 @@
 
 - screenName: **Drumato**
 - Team: [IPFactory](https://ipfactory.github.io/)
-- Language: Rust/C/Zen
+- Language: Rust/C/Haskell
 - Editor: CLion/NeoVim
 - Age: 20
 - Occupation: Student
@@ -23,10 +23,16 @@
   - can check whether a binary contains some security-mechanisms are in with `--checksec` flag.
   - contains `readelf-ish` program. `depth a.out --readelf -a | less -R` 
   - [finally i could create the ELF binary which is executable without using gcc](https://twitter.com/Drumato1/status/1186993979121754112?s=20)
-- [Gopaz](https://github.com/Drumato/Gopaz)
-  - A Toy Language
-  - doesn't need compile cuz it's interpreted language
-  
+- [Peachili](https://github.com/Drumato/Peachili)
+  - develop **Compiler Driver** from scratch.
+  - supports a programming langage designed by myself
+  - contains compiler/x64 assembler/elf linker
+  - without relying on external libraries
+  - it's written in Rust
+  - [finally i could create the ELF binary which is executable without using gcc](https://twitter.com/drumato/status/1270240539208593409?s=20)
+- [x64_asm](https://github.com/Drumato/x64_asm)
+  - An x64 assembler that is written by Rust
+
 ## Activities
 
 - seccamp2019 Y-Ⅱ Cコンパイラを自作してみよう! 受講生
