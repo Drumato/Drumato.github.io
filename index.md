@@ -36,9 +36,13 @@
 ## Activities
 
 - seccamp2019 Y-Ⅱ Cコンパイラを自作してみよう! 受講生
+  - [Report in Japanese](https://drumato.hatenablog.com/entry/2019/08/18/120154)
 - SecHack365'19 Trainee
+  - [Report in Japanese](https://drumato.hatenablog.com/entry/2019/12/08/000000)
+  - [Report2 in Japanese](https://drumato.hatenablog.com/entry/2020/02/08/095501)
 - サイボウズ･ラボユース第9期研究生
 - Online Summer Internship for Gophers 2020参加
+  - [Report in Japanese](https://drumato.hatenablog.com/)
 
 
 ## Miscellaneous
