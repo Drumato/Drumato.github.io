@@ -1,4 +1,4 @@
 theme: jekyll-theme-midnight
-markdown: redcarpet
+markdown: GFM
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
