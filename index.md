@@ -31,6 +31,8 @@
 
 - seccamp2019 Y-Ⅱ Cコンパイラを自作してみよう! 受講生
 - SecHack365'19 Trainee
+- サイボウズ･ラボユース第9期研究生
+- Online Summer Internship for Gophers 2020参加
 
 
 ## Miscellaneous
