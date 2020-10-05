@@ -4,8 +4,7 @@
 
 - screenName: **Drumato**
 - Team: [IPFactory](https://ipfactory.github.io/)
-- Language: Rust/C/Haskell
-- Editor: CLion/NeoVim
+- Language: Rust/Go/Python/C/Haskell
 - Age: 20
 - Occupation: Student
 - Interests: compiler/assembler/linker/OS/binary analysis(esp ELF)/ **all low-level programming**
@@ -32,6 +31,10 @@
   - [finally i could create the ELF binary which is executable without using gcc](https://twitter.com/drumato/status/1270240539208593409?s=20)
 - [x64_asm](https://github.com/Drumato/x64_asm)
   - An x64 assembler that is written by Rust
+- [elfpeach](https://github.com/Drumato/elfpeach)
+  - An TUI based ELF analyzer
+- [elf-utilities](https://github.com/Drumato/elf-utilities)
+  - ELF utilities written by Rust
 
 ## Activities
 
@@ -40,13 +43,12 @@
 - SecHack365'19 Trainee
   - [Report in Japanese](https://drumato.hatenablog.com/entry/2019/12/08/000000)
   - [Report2 in Japanese](https://drumato.hatenablog.com/entry/2020/02/08/095501)
-- サイボウズ･ラボユース第9期研究生
+- サイボウズ･ラボユース生
 - Online Summer Internship for Gophers 2020参加
   - [Report in Japanese](https://drumato.hatenablog.com/)
-
 
 ## Miscellaneous
 
 - Twitter(Japanese): [@Drumato](https://twitter.com/Drumato)
 - GitHub: [@Drumato](https://github.com/Drumato)
-- Blog(Japanese): [Explore "Full-Stack" in depth!](https://drumato.hatenablog.com/)
+- Blog(Japanese): [Explore "cs" in depth!](https://drumato.hatenablog.com/)
