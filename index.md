@@ -15,7 +15,6 @@
   - develop **Compiler Driver** from scratch.
   - supports a programming langage designed by myself
   - contains compiler/x64 assembler/elf linker
-  - without relying on external libraries
   - it's written in Rust
   - Depth can emit LLVM IR(WIP)
   - can execute ELF binary with `--run` option without using `execve(2)`
@@ -25,11 +24,8 @@
 - [Peachili](https://github.com/Drumato/Peachili)
   - develop **Compiler Driver** from scratch.
   - supports a programming langage designed by myself
-  - contains compiler/x64 assembler/elf linker
-  - without relying on external libraries
   - it's written in Rust
-  - [finally i could create the ELF binary which is executable without using gcc](https://twitter.com/drumato/status/1270240539208593409?s=20)
-- [x64_asm](https://github.com/Drumato/x64_asm)
+- [asmpeach](https://github.com/Drumato/asmpeach)
   - An x64 assembler that is written by Rust
 - [elfpeach](https://github.com/Drumato/elfpeach)
   - An TUI based ELF analyzer
