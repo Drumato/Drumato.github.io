@@ -4,10 +4,9 @@
 
 - screenName: **Drumato**
 - Team: [IPFactory](https://ipfactory.github.io/)
-- Language: Rust/Go/Python/C/Haskell
-- Age: 20
+- Language: Rust/Go/C/Haskell
 - Occupation: Student
-- Interests: compiler/assembler/linker/OS/binary analysis(esp ELF)/ **all low-level programming**
+- Interests: CS/network/system programming/**entire of Software Engineering**
 
 ## Projects
 
@@ -42,9 +41,12 @@
 - サイボウズ･ラボユース生
 - Online Summer Internship for Gophers 2020参加
   - [Report in Japanese](https://drumato.hatenablog.com/)
+- KLab Expert Camp#3
+- LINE IT Service Center Verda室 Network Development Team
 
 ## Miscellaneous
 
 - Twitter(Japanese): [@Drumato](https://twitter.com/Drumato)
 - GitHub: [@Drumato](https://github.com/Drumato)
 - Blog(Japanese): [Explore "cs" in depth!](https://drumato.hatenablog.com/)
+
