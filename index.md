@@ -49,4 +49,4 @@
 - Twitter(Japanese): [@Drumato](https://twitter.com/Drumato)
 - GitHub: [@Drumato](https://github.com/Drumato)
 - Blog(Japanese): [Explore "cs" in depth!](https://drumato.hatenablog.com/)
-
+- SpeakerDeck: [Drumato](https://speakerdeck.com/drumato/cybozu-labs-youth-10th)
