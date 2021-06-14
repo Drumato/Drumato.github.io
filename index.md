@@ -3,7 +3,6 @@
 # Profile
 
 - screenName: **Drumato**
-- Team: [IPFactory](https://ipfactory.github.io/)
 - Language: Rust/Go/C/Haskell
 - Occupation: Student
 - Interests: CS/network/system programming/**entire of Software Engineering**
