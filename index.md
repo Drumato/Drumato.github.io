@@ -7,6 +7,16 @@
 - Occupation: Student
 - Interests: CS/network/system programming/**entire of Software Engineering**
 
+## Slides
+
+- Japanese
+  - [x64/aarch64コンパイラを含むミニツールチェーン+αの開発 - Cybozu Labs Youth 10th](https://speakerdeck.com/drumato/cybozu-labs-youth-10th)
+  - [an incremental approach to implement an admission controller](https://speakerdeck.com/drumato/an-incremental-approach-to-implement-an-admission-controller)
+  - [eBPF disassemblerを作る](https://speakerdeck.com/drumato/writing-an-experimental-ebpf-disassembler)
+  - [詳解 controller-runtime v0.9.3](https://speakerdeck.com/drumato/wip-dive-into-controller-runtime-v0-dot-9-3)
+- English
+  - [Components of Kubernetes Cluster](https://speakerdeck.com/drumato/components-of-kubernetes-cluster)
+
 ## Projects
 
 - [Depth](https://github.com/Drumato/Depth)
@@ -43,7 +53,7 @@
 - KLab Expert Camp#3
 - LINE IT Service Center Verda室 Network Development Team
 
-## Miscellaneous
+## Contact
 
 - Twitter(Japanese): [@Drumato](https://twitter.com/Drumato)
 - GitHub: [@Drumato](https://github.com/Drumato)
