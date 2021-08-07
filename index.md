@@ -4,7 +4,7 @@
 
 - ScreenName: **Drumato**
 - BirthDay: 4/1/2000
-- Language: Rust/Go/C/Haskell
+- Language: Rust/Go/C
 - Occupation: Student
 - Interests: CS/network/system programming/**entire of Software Engineering**
 
